@@ -121,15 +121,6 @@ Built with Streamlit + Custom CSS
 ✔ Animated Buttons
 ✔ Minimal + Elegant
 
-Upload screenshots to see them here:
-
-```
-assets/ui1.png  
-assets/ui2.png  
-assets/ui3.png
-```
-
----
 
 # 🛠️ **Tech Stack**
 
