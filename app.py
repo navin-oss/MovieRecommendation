@@ -129,7 +129,7 @@ def recommend_by_genre(genre_keyword, movies_df, top_k=6):
     return results
 
 # ---------------------- Streamlit UI ----------------------
-st.set_page_config(layout="wide", page_title="🎬 MovieLens Recommender", initial_sidebar_state="expanded")
+st.set_page_config(layout="wide", page_title="🎬 MovieLens Recommender...", initial_sidebar_state="expanded")
 st.markdown(
     "<h1 style='text-align:center;color:#fff;background:linear-gradient(90deg,#667eea,#764ba2);padding:10px;border-radius:8px;'>🎬 MovieLens Recommender</h1>",
     unsafe_allow_html=True
